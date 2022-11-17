@@ -17,7 +17,6 @@ public class AppTest
      */
     public AppTest( String testName )
     {
-        System.out.println("test")
         super( testName );
     }
 
